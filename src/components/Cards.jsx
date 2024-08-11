@@ -29,11 +29,11 @@ const Cards = () => {
             <div className="flex flex-col items-center mt-2 p-auto text-white">
                 <h1 className='font-bold text-xl'>Bank details</h1>
           <ul className=" flex flex-col gap-2 p-2 mb-3">
-                <li className="flex items-center gap-1"><FaUser style={{fill:'blue'}} /><div className=""><span className="font-semibold">Account Name </span> : holder name </div></li>
-                <li className="flex items-center gap-1"> <PiPiggyBank style={{fill:'yellowgreen'}}/><div className=""><span className="font-semibold">Account No </span> : 1121023440990 </div></li>
-                <li className="flex items-center gap-1"><MdOutlineAccountBalance style={{fill:'brown'}}/><div className=""><span className="font-semibold">IFSC code </span> : CNRBTSY1234</div></li>
-                <li className="flex items-center gap-1"><GiBank style={{fill:'burlywood'}}/><div className=""><span className="font-semibold">Bank Name </span> : dummy Bank</div></li>
-                <li className="flex items-center gap-1"><FaLocationDot style={{fill:'red'}} /> <div className=""><span className="font-semibold">Bank location </span> : dummy Bank</div></li>
+                <li className="flex items-center gap-1"><FaUser style={{fill:'blue'}} /><div className=""><span className="font-semibold">Account Name </span> : M/S. Sadhana Trust </div></li>
+                <li className="flex items-center gap-1"> <PiPiggyBank style={{fill:'yellowgreen'}}/><div className=""><span className="font-semibold">Account No </span> : 071150050800049 </div></li>
+                <li className="flex items-center gap-1"><MdOutlineAccountBalance style={{fill:'brown'}}/><div className=""><span className="font-semibold">IFSC code </span> : TMBL0000071</div></li>
+                <li className="flex items-center gap-1"><GiBank style={{fill:'burlywood'}}/><div className=""><span className="font-semibold">Bank Name </span> : Tamilnadu Mercantile Bank Limited </div></li>
+                <li className="flex items-center gap-1"><FaLocationDot style={{fill:'red'}} /> <div className=""><span className="font-semibold">Bank location </span> : REGD NO 555/04(14/08), Gandamanur Post, Theni - 625517</div></li>
           </ul>
     
         </div>
